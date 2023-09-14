@@ -1,0 +1,5 @@
+net\cltech\middleware\drivers\app\Filter.class
+net\cltech\middleware\domain\DriverParameters.class
+net\cltech\middleware\drivers\app\AnalyzerDriver$UpdateWorker.class
+net\cltech\middleware\drivers\app\AnalyzerDriver.class
+net\cltech\middleware\drivers\app\AnalyzerDriver$ScanReultsQC.class
